@@ -25,7 +25,7 @@ I'm ASMA AYARI</h1>
 ![Linux](https://img.shields.io/badge/-bootstrap-000?&logo=bootstrap)
 
 
-### Awards
+### 🏆 Awards
 #### Honoris  Award![alt text](https://github.com/ayarii/ayarii/blob/main/award_honoris.jpg)
-#### Esprit Pedagogical  Innovation Award![alt text](https://github.com/ayarii/ayarii/blob/main/esprit_award.jpg)
+#### Esprit Pedagogical  Innovation Award![alt text](https://github.com/ayarii/ayarii/blob/main/esprit_award1.png)
 
