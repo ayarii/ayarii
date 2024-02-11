@@ -8,6 +8,7 @@ I'm ASMA AYARI</h1>
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-HTML5-000?&logo=Html5)
 ![JavaScript](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-sass-000?&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![PHP](https://img.shields.io/badge/-php-000?&logo=php)
