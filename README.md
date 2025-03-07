@@ -1,7 +1,7 @@
 <h1 align="center">
-Hi There 👋 <br> 
+**السلام عليكم ورحمة الله وبركاته** <br> 
 I'm ASMA AYARI</h1> 
-<h2 align="center">Computer science teacher and PhD Student </h2>
+<h2 align="center">I'm a computer science Teacher and PhD Student </h2>
 <h2 align="center">Passionate about teaching code</h2>
 
 ### 🚩 Languages
