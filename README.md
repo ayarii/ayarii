@@ -30,6 +30,6 @@ I'm ASMA AYARI</h1>
 ### 🏆 Awards
 #### Honoris  Award![alt text](https://github.com/ayarii/ayarii/blob/main/award_honoris.jpg)
 #### Esprit Pedagogical  Innovation Award![alt text](https://github.com/ayarii/ayarii/blob/main/esprit_award1.png)
-#### Massai 2025 Best Poster in Education Field ![alt text](https://github.com/ayarii/ayarii/blob/main/bestPoster.jpg)
+#### Massai 2025 – Best Poster Award in the Education Field![alt text](https://github.com/ayarii/ayarii/blob/main/bestPoster.jpg)
 
 
