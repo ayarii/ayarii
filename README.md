@@ -1,8 +1,8 @@
 <h1 align="center">
 **السلام عليكم ورحمة الله وبركاته** <br> 
 I'm ASMA AYARI</h1> 
-<h2 align="center">I'm a computer science Teacher and PhD Student </h2>
-<h2 align="center">Passionate about teaching code</h2>
+<h2 align="center">I’m a Computer Science Engineer, teacher, and researcher at the RIADI Laboratory (ENSI) </h2>
+<h2 align="center">Passionate about teaching and dedicated to creating meaningful learning experiences</h2>
 
 ### 🚩 Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
